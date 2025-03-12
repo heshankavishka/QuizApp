@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_correct.gif.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/correct.gif"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_history.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_splash_image.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/splash_image.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_geography_or_literature_quiz.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_geography_or_literature_quiz.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_edit_password.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_edit_password.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_quiz_option.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_quiz_option.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_logout.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_item_history.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/item_history.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.heshan.quizapp-pngs-12:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_book.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/book.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_history.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/history.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_icon.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/icon.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_arrow.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/arrow.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_rules.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/rules.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_blackboard.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/blackboard.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_rule.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_rule.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_noted.gif.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/noted.gif"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable-v24_question1.gif.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable-v24/question1.gif"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_math_quiz.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_math_quiz.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_worldwide.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/worldwide.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_login.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_slide_rules.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/slide_rules.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_main.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_register.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/layout_activity_final_result.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/layout/activity_final_result.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_quiz.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/quiz.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_unselected.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/unselected.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_selected.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/selected.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_incorrect.gif.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/incorrect.gif"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_home_bg.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/home_bg.xml"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.heshan.quizapp-main-19:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.heshan.quizapp-merged_res-17:/drawable_keys.xml.flat",
+        "source": "com.heshan.quizapp-main-19:/drawable/keys.xml"
+    }
+]
